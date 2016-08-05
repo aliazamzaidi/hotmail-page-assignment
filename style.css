@@ -13,9 +13,11 @@ height: 50px;
 width: 15%;
 height: 600px;
 background-color: #F3F3F3;
+float: left;
 }
 .right-part{
-
+width: 85%;
+float: left;
 }
 .float-left{
     float: left;
@@ -31,4 +33,7 @@ background-color: #F3F3F3;
 padding-left: 0px;
 padding-top: 4px;
 padding-bottom: 4px;
+}
+tr:hover{
+    background-color: #CCCCCC
 }
