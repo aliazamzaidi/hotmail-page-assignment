@@ -35,5 +35,9 @@ padding-top: 4px;
 padding-bottom: 4px;
 }
 tr:hover{
-    background-color: #CCCCCC
+    background-color: #CCCCCC;
+    width: 100%;
+}
+div.right-part td{
+height: 1.7em;
 }
